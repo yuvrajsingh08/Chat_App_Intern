@@ -12,10 +12,6 @@ This is a full-stack real-time chat application built using the MERN stack (Mong
 - MongoDB Database: All user data and chat history are stored securely in a MongoDB database.
 - Scalable Architecture: Built with scalability in mind to handle multiple users and conversations simultaneously.
 
-## Screenshots
-![Screenshot 2024-08-18 152042](https://github.com/user-attachments/assets/80986b55-1a1f-47f9-814c-1e0e9ae54e44)
-![Screenshot 2024-08-18 152026](https://github.com/user-attachments/assets/62550de2-5f4d-42de-b108-679cdb2640a9)
-![Screenshot 2024-08-18 152014](https://github.com/user-attachments/assets/2a47639c-ad86-419f-8031-57dd50b59ed9)
 
 
 ## Technologies Used
